@@ -1,3 +1,20 @@
 {
-  "recommendations": ["Vue.volar", "Vue.vscode-typescript-vue-plugin"]
+  "recommendations": [
+    "Vue.volar",
+    "Vue.vscode-typescript-vue-plugin",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "antfu.vite",
+    "antfu.iconify",
+    "lokalise.i18n-ally",
+    "mikestead.dotenv",
+    "voorjaar.windicss-intellisense",
+    "jingwang37.element-plus-snippets",
+    "redjue.git-commit-plugin",
+    "eamodio.gitlens",
+    "wallabyjs.console-ninja",
+    "chakrounanas.turbo-console-log",
+    "quicktype.quicktype",
+    "pranaygp.vscode-css-peek"
+  ]
 }

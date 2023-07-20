@@ -1,0 +1,15 @@
+.vscode
+.husky
+.github
+.local
+dist
+/node_modules/**
+**/*.svg
+**/*.sh
+*-lock.yaml
+.vscode
+release
+dist-electron
+.eslintrc-auto-import.json
+components.d.ts
+auto-imports.d.ts
